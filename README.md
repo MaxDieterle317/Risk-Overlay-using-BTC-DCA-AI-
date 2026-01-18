@@ -69,10 +69,10 @@ Initial Models:
 * Logistic Regression
 * Decision Trees
 
-# Learning Roadmap
+# Roadmap
 
-1. Gather BTC daily price data
-2. Implement baseline DCA
+1. Gather BTC daily price data *
+2. Implement baseline DCA *
 3. Add rule-based risk overlay
 4. Backtest against baseline
 5. Generate ML training dataset
@@ -80,12 +80,11 @@ Initial Models:
 7. Paper trade ML-driven strategy
 8. Deploy with small real capital (minimum risk for now)
 
-# Learning Objective
+# Learning Objectives
 
 * Use AI to help in cryptocurrency risk management.
 * This project is primary for learning/research purposes.
-* Crypto markets are notoriously voliatile
-* No profit guarantee
+* Crypto markets are notoriously voliatile, no profit guarantee
 * Heavy testing before deploying real funds
 
 # Techstack
